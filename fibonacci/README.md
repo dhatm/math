@@ -127,8 +127,9 @@ Derivation of O(1) formula via 1-sided Z-transform
           [1 - p*x][1 - q*x]    [1 - p*x]        [1 - q*x]
 ```
 
-find A and B
-cross-multiply residuals and set limit of x to roots
+find A and B.
+
+Cross-multiply residuals and set limit of x to roots
 
 ```
                x      |            1/p           1        
