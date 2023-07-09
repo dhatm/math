@@ -100,13 +100,13 @@ $$\Rightarrow 0 + B = {1/q \over {1-p/q} } $$<br>
 $$\Rightarrow B = {1 \over {q-p}} = -A$$
 <br>
 <br>
-from step 6<br>
+&emsp;&emsp;from step 6<br>
 $$p - q = {1 + \sqrt{5} \over 2} - {1 - \sqrt{5} \over 2} = \sqrt{5}$$
 <br>
-yields<br>
+&emsp;&emsp;yields<br>
 $$A = {1 \over \sqrt{5}}&emsp;,&emsp;B = -{1 \over \sqrt{5}} $$<br>
 <br>
-So <br>
+&emsp;&emsp;So <br>
 $$\Rightarrow F(x) = {1/\sqrt{5} \over 1-px} - {1/\sqrt{5} \over 1-qx} = {1 \over \sqrt{5}}({1 \over 1-px} - {1 \over 1-qx})$$<br>
 
 
@@ -118,7 +118,7 @@ $$\Rightarrow F(z) = {1 \over \sqrt{5}}({1 \over 1-pz^{-1}} - {1 \over 1-qz^{-1}
 $$F(z) \Rightarrow Zxform_{inv} \Rightarrow$$<br><br>
 $$\Rightarrow f(n) = {1 \over \sqrt{5}}(p^n - q^n)&emsp;&emsp;for&emsp;n \geq 0, &emsp; 0 &emsp; otherwise$$<br><br>
 
-where p and q were defined in step 6 as<br><br>
+&emsp;&emsp;where p and q were defined in step 6 as<br><br>
 $$p = { {1+{\sqrt{5}} } \over{2} }&emsp;,&emsp; q = { {1-{\sqrt{5}} } \over{2}}$$<br><br>
 
 Thus concludes the derivation.
