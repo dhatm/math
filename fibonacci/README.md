@@ -8,13 +8,13 @@ This project contains 3 methods to compute the nth fibonacci number. The derivat
 $&emsp;&emsp;f(n) = {1 \over {\sqrt{5}} } (p^n - q^n)  $&emsp;,&emsp;for n >= 0
 
 
-where p and q are:<br><br>
+&emsp;&emsp;where p and q are:<br><br>
 $&emsp;&emsp; p = { {1+{\sqrt{5}} } \over{2} } &emsp;,&emsp; q = { {1-{\sqrt{5}} } \over{2} } $
 
 
-this formula can be obtained using the 1-sided Z-transform (see end of this file for derivation)
+&emsp;&emsp;this formula can be obtained using the 1-sided Z-transform (see end of this file for derivation)
 
-note: this assumes non-negative n here
+&emsp;&emsp;note: this assumes non-negative n here
 
 
 2. **fibonacci_recursive**
